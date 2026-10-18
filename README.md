@@ -1,2 +1,2 @@
 # bootcampjs-modulo01
-Laboratorio HTML
+Laboratorio Módulo 1 - HTML 
